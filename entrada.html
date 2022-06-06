@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <title>Form validation: Task 2</title>
+    <link rel="stylesheet" href="./css/style1.css" />
+    <link rel="icon" href="./img/vigobandera.png">
+  </head>
+
+  <body>
+  
+    <div class="container">
+      <form class="box">
+        <div class="letter">
+        <h2 class="intro"><b>INTRODUZA OS SEUS DATOS</b></h2>
+        <label for="user">Usuario:</label>
+        <br>
+        <input type="text" name="user" id="user" required pattern="^[a-z]{1}+[.]+[a-z1-9]{3}*$" title="[letra + . + 3x letras/números] Ej: t.33f">
+        <br>
+        <br>
+        <label for="password">Contrasinal:</label>
+        <br>
+        <input type="text" id="password" required> </input>
+       <button class="btn">Enviar datos</button>
+        </div>
+      </form>
+    </div>
+
+  </body>
+</html>

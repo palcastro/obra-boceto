@@ -1,0 +1,87 @@
+/* rgba(226,0,26) */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.container {
+    display: flex;
+    margin-top: 20px;
+}
+
+.subgrupo1 {
+    float: left;
+    width: 40%;
+    padding: 3%;
+}
+
+.subgrupo2 {
+    float: right;
+    width: 60%;
+    padding: 3%;
+}
+
+nav {
+    margin-top: 6%;
+    background: rgba(255, 255, 255, 0.432);
+    border: 2px solid rgba(234,90,91);
+    /* box-shadow: 1px 1px 1px #0a0909; */
+
+    width: 350px;
+    height: 300px;
+}
+
+a {
+    padding: 2%;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(2, 2, 2);
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
+a:hover {
+    color: rgb(160, 2, 2);
+}
+
+footer {
+    background-color: rgb(160, 2, 2);
+    width: 100%;
+    height: 100px;
+}
+/* CONSULTAS FORMULARIO */
+.intro{
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(160, 2, 2);
+    font-size: 36px;  
+}
+form{
+    border: 2px solid rgba(234,90,91);
+    padding: 15px;   
+    text-align: center;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+.btn{
+    box-shadow:inset 0px 1px 0px 0px #f5978e;
+	background:linear-gradient(to bottom, #c90d00 5%, rgb(160, 2, 2)100%);
+	background-color:rgb(160, 2, 2);
+	border-radius:6px;
+	border:1px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #810e05;
+}
+/* PERSOAS */
+.perso{
+    font-family: 'Bebas Neue', cursive;
+   
+}
