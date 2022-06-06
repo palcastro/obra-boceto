@@ -1,6 +1,8 @@
 # OBRA-BOCETO
 MAQUETA PÁGINA:
 Esta página está conformada por varios archivos html incluyendo:
+
+*A Mayores se adjuntará un boceto realizado en otro color (azul)*
   1. index.html
   2. citas.html
   3. consultas.html
