@@ -23,6 +23,10 @@ Los apartados de Personas para poder registrar las personas que se han dado de a
 La cuestión sería tener una aplicación que no tenga muchos apartados, pero que los que existan en sí sean útiles para la petición de citas y la organización de los funcionarios a la hora de reunirse con los ciudadanos. 
 
 Para la página yo utilizaría una paleta de colores parecida a la que se muestra debajo:
+
+
+![image](https://user-images.githubusercontent.com/91055754/172130227-189b1c44-31a7-4e25-baaf-b367188ea805.png)
+
 - Acentuar ciertas partes con los verdes oscuros y para el resto de apartados una escalas de grises y blancos.
 - Para una empresa o institución me parece más lógico utilizar una paleta de colores fríos que no destaque demasiado, ya que lo que realmente importa son los contenidos, que sean legibles y que se puedan entender con facilidad.  
 - Buscaría usar una tipografía legible y no muy ornamentada que no se haga cansada a la vista. 
